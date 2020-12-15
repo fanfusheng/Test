@@ -1,9 +1,1 @@
-
-class Hello(){
-hello Timi!
-class Hello{
-public static void main(String[]args){
-    System.out.println("Hello world!");
-}
-
-}
+hello fanfusheng
